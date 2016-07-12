@@ -1,6 +1,6 @@
-# Java Programming: Object-Oriented Design of Data Structures
+### Java Programming: Object-Oriented Design of Data Structures
 
-## University of California, San Diego
+### University of California, San Diego
 
 This repository consists of code from UCSD's specialization on **Java Programming: Object-Oriented Design of Data Structures**
 
